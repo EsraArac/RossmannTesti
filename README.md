@@ -25,11 +25,11 @@ Bu projede Rossmann web sayfasında yer alan senaryolar yer almaktadır:
 
  Sayfada bulunanlar:
 	
- -AnaSayfa
- -AramaSayfası
- -GlossSayfası
- -Sepetim sayfası
- -Komutlar (Testte kullanılan komutlar yer alır)
+ - AnaSayfa
+ - AramaSayfası
+ - GlossSayfası
+ - Sepetim sayfası
+ - Komutlar (Testte kullanılan komutlar yer alır)
    
 ## **Projenin şu anda sunmuş olduğu özellikler şunlardır:*
 
