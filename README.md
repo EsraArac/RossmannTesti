@@ -22,7 +22,7 @@ Proje, aşağıdaki teknolojiler sayesinde kullanılır:
 
 ## *Nasıl Kullanılır?*
 
-Testleri çalıştırabilirsiniz: RossmanTest/RossmanTest/src/test/java dizinde yer alan paketlerin içlerindeki java hücrelerini çalıştırabilirsiniz.
+Testleri çalıştırabilirsiniz: RossmanTest/RossmanTest/src/test/java dizinde yer alan tests hücrelerini çalıştırabilirsiniz.
 
 ## *Senaryolar*
 
