@@ -6,14 +6,14 @@ Bu proje, Rossmann sitesi üzerindeki ürünleri ekleme işlemlerini test etmek 
 
 Proje, aşağıdaki teknolojiler sayesinde kullanılır:
 
-Java 17. sürüm
-Selenyum Web Sürücüsü
-JUnit
+- Java 17. sürüm
+- Selenyum Web Sürücüsü
+- JUnit
 
 ## **Projenin kopyalanması:*
 
 
-https://github.com/dlyzaren/RossmannTesti.git
+- https://github.com/dlyzaren/RossmannTesti.git
 
 ## **Nasıl Kullanılır?*
 
