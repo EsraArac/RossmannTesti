@@ -7,13 +7,18 @@ Bu proje, Rossmann sitesi üzerindeki ürünleri ekleme işlemlerini test etmek 
 Proje, aşağıdaki teknolojiler sayesinde kullanılır:
 
 - Java 17. sürüm
+- IntelliJ IDEA
 - Selenyum Web Sürücüsü
 - JUnit
 
 ## *Projenin kopyalanması:*
 
-
-- https://github.com/dlyzaren/RossmannTesti.git
+İlk adım olarak, GitHub'daki projeyi klonlamanız gerekmektedir. Bunun için aşağıdaki adımları izleyebilirsiniz:
+- Projeyi Klonlayın: https://github.com/dlyzaren/RossmannTesti.git
+- IntelliJ IDEA'yı açın.
+- Üst menü çubuğundan File > New > Project from Version Control... seçeneğini seçin.
+- Açılan pencerede, Repository URL sekmesini seçin.
+- URL kısmına yukarıdaki linki yapıştırın *'Clone'* düğmesine tıklayın.
 
 ## *Nasıl Kullanılır?*
 
