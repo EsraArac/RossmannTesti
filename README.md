@@ -30,7 +30,7 @@ Bu projede Rossmann web sayfasında yer alan senaryolar yer almaktadır:
  - GlossSayfası
  - Sepetim sayfası
  - Komutlar (Testte kullanılan komutlar yer alır)
-   
+ - tests
 ## *Projenin şu anda sunmuş olduğu özellikler şunlardır:*
 
 
