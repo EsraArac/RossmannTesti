@@ -61,6 +61,7 @@ public static void setUp() {
 
     //Bu test, bir e-ticaret sitesinde ürünün doğru bir şekilde arandığını kontrol eder.
     // Test adımları yanında belirtildiği gibidir.
+        //yeniden ceniyorum
 
     // Adım 1: Cookie bildirimi görüntülenir ve kabul edilir
      anasayfa.gorunurlukBekleById(anasayfa.cookiesElementi);
