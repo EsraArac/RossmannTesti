@@ -46,8 +46,7 @@ public class Tests {
     @Test
 
     public void test01() throws InterruptedException {
-//        anasayfa.gorunurlukBekleCss(anasayfa.reklamCarpi);
-//        anasayfa.tiklaCss(anasayfa.reklamCarpi);
+
         anasayfa.tiklaByXpath(anasayfa.aramaBox);
         anasayfa.yaziYazXpath(anasayfa.aramaBox,"Lip gloss");
         Thread.sleep(beklemeSuresi);
